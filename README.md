@@ -2,7 +2,8 @@
 
 - Bu kullanıcı betiği (UserScript), Zara web sitesinde gezinirken, her bir ürünün ne kadar süre önce eklenmiş olduğunu belirten bir özellik ekler. Böylece kullanıcılar, ürünlerin ne zaman eklendiğini daha açık bir şekilde görebilir ve bu bilgiyi satın alma kararlarına yardımcı olarak kullanabilirler.
   
-![image](https://github.com/Thionte/ZARADAY/assets/152929892/ecf55ce0-94ea-4efe-9b68-c03acc081d09)
+![image](https://github.com/Thionte/ZARADAY/assets/152929892/a9ba319a-3691-4f37-a658-bdb422baa4ce)
+
 
 ## Nasıl Kullanılır
 
