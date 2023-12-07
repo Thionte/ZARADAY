@@ -6,7 +6,7 @@
 // @author       Thionte
 // @match        https://www.zara.com/*
 // @grant        none
-// @icon         https://logowik.com/content/uploads/images/zara-new-20203212.jpg
+// @icon         https://i.imgur.com/RNu5IOi.png
 // @updateURL    https://raw.githubusercontent.com/Thionte/ZARADAY/main/zaraday.user.js
 // @downloadURL  https://raw.githubusercontent.com/Thionte/ZARADAY/main/zaraday.user.js
 // ==/UserScript==
